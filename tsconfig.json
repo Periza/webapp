@@ -2,6 +2,10 @@
     "compilerOptions": {
         "target": "es2022",
         "outDir": "./dist",
-        "rootDir": "./src"
+        "rootDir": "./src",
+        "jsx": "react",
+        "jsxFactory": "createElement",
+        "module": "esnext",
+        "moduleResolution": "node"
     }
 }
