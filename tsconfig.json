@@ -6,6 +6,6 @@
         "jsx": "react",
         "jsxFactory": "createElement",
         "module": "esnext",
-        "moduleResolution": "node"
+        "moduleResolution": "bundler"
     }
 }
